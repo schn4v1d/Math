@@ -1,0 +1,1 @@
+Definiert in [[1.1 Definition]]

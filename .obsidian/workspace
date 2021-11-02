@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "4e59f68b949fdbb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f224ed0c16a041bf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Analysis/Begriffe/äußeres Maß.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e81d34749722a079",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c655d931c3ca63d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f02eb3489024fd6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "18cc9b236f5d697f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c99b2bea1def436c",
+    "type": "split",
+    "children": [
+      {
+        "id": "830688a6820478bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbf368813d87af71",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Analysis/Begriffe/äußeres Maß.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f224ed0c16a041bf",
+  "lastOpenFiles": [
+    "Analysis/Begriffe/äußeres Maß.md",
+    "Analysis/Ana3/I. Maß- und Integrationstheorie/2. Sigma-Algebren und Maße/2.8 Definition.md",
+    "Analysis/Ana3/I. Maß- und Integrationstheorie/2. Sigma-Algebren und Maße/2.1 Definition.md",
+    "Analysis/Begriffe/Sigma-Algebra.md",
+    "Analysis/Begriffe/messbare Menge.md",
+    "Analysis/Begriffe/messbar.md",
+    "Analysis/Ana3/I. Maß- und Integrationstheorie/5. Messbare Abbildungen/5.9 Lemma.md",
+    "Analysis/Ana3/I. Maß- und Integrationstheorie/5. Messbare Abbildungen/5.8 Bezeichnung.md",
+    "Analysis/Ana3/I. Maß- und Integrationstheorie/5. Messbare Abbildungen/5.3 Satz.md",
+    "Analysis/Ana3/I. Maß- und Integrationstheorie/5. Messbare Abbildungen/5.2 Beispiel.md"
+  ]
+}
